@@ -21,3 +21,6 @@ On the tessel:
 Node ENV variables:
 http://stackoverflow.com/questions/12236890/run-mocha-tests-in-test-environment
 
+## See also
+
+[Tessel Ambient app](https://github.com/educastellano/tessel-ambient-app)
